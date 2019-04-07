@@ -1,2 +1,4 @@
 # Bootstrap-Discount-Factor-Curve-with-Cubic-Spline-Interpolator
-This is an extension to MSc Financial Maths coursework at Queen Mary University of London
+This programme uses market data on par interest rate swaps to bootstrap a discount factor curve using cubic spline interpolation.
+This is an extension to MSc Financial Maths coursework completed at Queen Mary University of London.
+It extends from course material produced by Michael J. Phillips, text book 'Numerical Methods in Finance with C++ by M. Capinkski and T. Zastawniak and uses cubic spline methodology from https://en.wikipedia.org/wiki/Spline_(mathematics)#Algorithm_for_computing_natural_cubic_splines.
